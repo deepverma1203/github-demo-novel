@@ -6,3 +6,4 @@ blue
 indigo
 violet
 coral
+purplish
