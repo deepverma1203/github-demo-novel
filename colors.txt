@@ -4,8 +4,9 @@ yellow
 green
 blue
 indigo
-violet
+
 coral
 purplish
+I love the rainbow
 
 
